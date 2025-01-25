@@ -1,9 +1,19 @@
 # WanderOnSteroids
 Planning in Player/Stage
 
+## Functionality
+
+- In this controller (shared library) the robot registers itself as an observer of its own updates.
+
+- In each cycle of the simulation, both the LIDAR laser and the position values ​​are updated.
+
+- The LaserUpdate() function is called in each iteration, controlling the robot's movement through callbacks. It uses the Stage model to receive the updates and the robot object.
+
+- Simple algorithms can solve complex autonomous navigation problems in simulated environments.
+
 ## Video
 
-You can view the videos PoC here:
+You can view the proof of concept videos here:
 
-[Cave](https://drive.google.com/file/d/1ewsV_P0ZdYmvAkKmHDIo_R-MycgKufWb/preview?usp=sharing)
-[Autolab](https://drive.google.com/file/d/1ugxIJvs1lYWfH86m5tng3e-Fo9fj0mWl/preview?usp=drive_link)
+- **[Cave](https://drive.google.com/file/d/1ewsV_P0ZdYmvAkKmHDIo_R-MycgKufWb/preview?usp=sharing)**
+- **[Autolab](https://drive.google.com/file/d/1ugxIJvs1lYWfH86m5tng3e-Fo9fj0mWl/preview?usp=drive_link)**
