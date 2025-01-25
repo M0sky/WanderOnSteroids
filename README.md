@@ -17,5 +17,5 @@ Planning in Player/Stage
 
 You can view the proof of concept videos here:
 
-- **[Cave](https://drive.google.com/file/d/1ewsV_P0ZdYmvAkKmHDIo_R-MycgKufWb/preview?usp=sharing)**
-- **[Autolab](https://drive.google.com/file/d/1ugxIJvs1lYWfH86m5tng3e-Fo9fj0mWl/preview?usp=drive_link)**
+- **[Cave's Bitmap](https://drive.google.com/file/d/1ewsV_P0ZdYmvAkKmHDIo_R-MycgKufWb/preview?usp=sharing)**
+- **[Autolab's Bitmap](https://drive.google.com/file/d/1ugxIJvs1lYWfH86m5tng3e-Fo9fj0mWl/preview?usp=drive_link)**
